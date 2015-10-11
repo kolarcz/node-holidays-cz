@@ -1,6 +1,6 @@
 {
-  "name": "node-holidays-cz",
-  "version": "1.0.1",
+  "name": "holidays-cz",
+  "version": "1.0.2",
   "description": "Returns holidays and name days on a specified date (cz)",
   "main": "index.js",
   "scripts": {

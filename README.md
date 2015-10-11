@@ -1,8 +1,8 @@
-# node-holidays-cz
+# holidays-cz
 Returns holidays and name days on a specified date (cz)
 
 ## Instalation
-`npm install node-holidays-cz`
+`npm install holidays-cz`
 
 ## Methods
 
@@ -17,7 +17,7 @@ Get holidays and name days on a specified date.
 
 ## Example
 ```javascript
-var HolidaysCz = require('node-holidays-cz');
+var HolidaysCz = require('holidays-cz');
 var date = new Date(2015, 11, 24);
 
 // returns: [ 'Štědrý den' ]
